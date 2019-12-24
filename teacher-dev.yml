@@ -1,1 +1,2 @@
-massage: success!
+server:
+  port: 8080
